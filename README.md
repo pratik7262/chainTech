@@ -13,8 +13,8 @@ MongoDB
 ## How To Use
 
 First Download the code from the reposotery https://github.com/pratik7262/chainTech
-Go To chainTech folder in you system and run command `bash npm install` it will install all required packages.
-Then Run command `bash node index.js` You should see `bash App is running at Port 80`
+Go To chainTech folder in you system and run command ` npm install` it will install all required packages.
+Then Run command ` node index.js` You should see ` App is running at Port 80`
 Make Sure You have installed Node.js and MongoDB in your system
 
 ## Endpoints
